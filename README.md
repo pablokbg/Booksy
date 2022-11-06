@@ -7,8 +7,18 @@ Booksy es una sencilla herramienta escrita en Python3 que permite hacer resúmen
 > ![captura2](https://raw.githubusercontent.com/pablokbg/Booksy/main/images/captura_2.png)
 
 # Uso
-Paso 1: Añadir API de OpenAI en el script.
+* Paso 1: Añadir [API de OpenAI](https://beta.openai.com/account/api-keys) en el script.
 ```
 # API OpenAI
 openai.api_key = "API KEY"
 ```
+* Paso 2: Instalar el módulo de OpenAI para Python3.
+```
+pip install -r requirements.txt
+```
+* Paso 3: Ejecutar Booksy
+```
+python Booksy.py
+```
+
+
