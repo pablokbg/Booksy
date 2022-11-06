@@ -21,4 +21,6 @@ pip install -r requirements.txt
 python Booksy.py
 ```
 
+# Notas
+La IA a veces puede dar resúmenes incoherentes, por ello vuelva a repetir el proceso nuevamente o especifique mejor el libro que quiere que resuma.
 
