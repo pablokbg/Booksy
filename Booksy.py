@@ -20,7 +20,7 @@ class colors:
     UNDERLINE = '\033[4m'
 
 # API OpenAI
-openai.api_key = ""
+openai.api_key = "API KEY"
 
 # Functions
 def banner():
